@@ -36,6 +36,6 @@ Don't forget to set the root password in the container, otherwise you won't be a
 
 You can access cups at http://localhost:631.
 
+Ready image: https://hub.docker.com/repository/docker/rhome/centos-7-i686-cups/general
 
-
-Translated with DeepL.com (free version)
+docker pull rhome/centos-7-i686-cups:1

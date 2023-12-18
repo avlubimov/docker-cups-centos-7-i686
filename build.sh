@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t centos-7-i686/cups:0.2 .
+docker build -t rhome/centos-7-i686-cups:1 .
